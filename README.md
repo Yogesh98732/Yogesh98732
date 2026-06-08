@@ -1,12 +1,7 @@
 <h1 text-aling="center">Yogesh Yadav</h1>
 <h2>I Am BTech CSE Student Studying in Indore Institute Of Science & Technology (Affiliated with Rajv Gandhi Proudyogiki Vishwavidhyalaya) Having (NBA Accredidation & NAAC A+ grade ) in rau-indore region . </h2>
-<p>
-<h2>🚀 MERN Stack</h2>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,mongodb,express,react,nodejs" />
 </p>
 I am MERN Framework developer with great hands on java (JDK 26 Latest) programming language having 2 years experience which i build from self study & college workshops . 
 I have also hands on below languages : 
