@@ -6,6 +6,13 @@
   <img src="images/iist-scaled.jpeg" width="225" Height="65">
   <img src="images/logo.jpeg.png" width="500" Height="65">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Yogesh+Yadav;B.Tech+CSE+Student;MERN+Stack+Developer;Open+Source+Contributor" />
+</p>
+
+
+
 <h3>I Am BTech CSE Student Studying in Indore Institute Of Science & Technology (Affiliated with Rajv Gandhi Proudyogiki Vishwavidhyalaya) Having (NBA Accredidation & NAAC A+ grade ) in rau-indore region . </h3>
 
 
@@ -42,12 +49,6 @@ I have also hands on below languages :
   <img src="https://streak-stats.demolab.com?user=Yogesh98732" />
 </p>
 
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Yogesh+Yadav;B.Tech+CSE+Student;MERN+Stack+Developer;Open+Source+Contributor" />
-</p>
 
 
 
