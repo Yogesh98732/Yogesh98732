@@ -1,5 +1,5 @@
-<h1 aling="center">Yogesh Yadav</h1>
-
+<h1 text-aling="center">Yogesh Yadav</h1>
+<h2>I am BTech CSE Student Studying in Indore Institute Of Science & Technology (Affiliated with Rajv Gandhi Proudyogiki Vishwavidhyalaya) Having (NBA Accredidation & NAAC A+ grade ) in rau-indore region . </h2>
 
 
 I am MERN Framework developer with great hands on java (JDK 26 Latest) programming language having 2 years experience which i build from self study & college workshops . 
