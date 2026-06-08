@@ -60,7 +60,7 @@ I have also hands on below languages :
 
 
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Snake Chart</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yogesh98732/Yogesh98732/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
