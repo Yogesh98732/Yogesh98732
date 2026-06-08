@@ -11,15 +11,6 @@
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh98732&show_icons=true&theme=default" />
-</p>
-
-
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,mongodb,express,react,nodejs" />
 </p>
@@ -43,6 +34,13 @@ I have also hands on below languages :
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh98732" />
 </p>
 
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh98732&show_icons=true&theme=default" />
+</p>
 
 Currenlty i am working on Web Dev Scenarios . Where i learn about flow of databse in backend & how's our frontend part helps to rectify & solving complex evnets with users . 
 working with these frame works 
