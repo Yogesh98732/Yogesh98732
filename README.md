@@ -1,7 +1,7 @@
 <h1 text-aling="center">Yogesh Yadav</h1>
 <h2>I Am BTech CSE Student Studying in Indore Institute Of Science & Technology (Affiliated with Rajv Gandhi Proudyogiki Vishwavidhyalaya) Having (NBA Accredidation & NAAC A+ grade ) in rau-indore region . </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,sql,git,github,mongodb,express,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,mongodb,express,react,nodejs" />
 </p>
 
 
