@@ -7,6 +7,12 @@
 
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/iist-logo.png" width="120">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/rgpv-logo.png" width="120">
+</p>
+
+
 
 I am MERN Framework developer with great hands on java (JDK 26 Latest) programming language having 2 years experience which i build from self study & college workshops . 
 I have also hands on below languages : 
