@@ -42,6 +42,16 @@ I have also hands on below languages :
   <img src="https://streak-stats.demolab.com?user=Yogesh98732" />
 </p>
 
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Yogesh+Yadav;B.Tech+CSE+Student;MERN+Stack+Developer;Open+Source+Contributor" />
+</p>
+
+
+
+
 Currenlty i am working on Web Dev Scenarios . Where i learn about flow of databse in backend & how's our frontend part helps to rectify & solving complex evnets with users . 
 working with these frame works 
 1. Node.js (Local Server Support)
