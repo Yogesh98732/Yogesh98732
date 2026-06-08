@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,mongodb,express,react,nodejs" />
 </p>
+
+
+
+
+
 I am MERN Framework developer with great hands on java (JDK 26 Latest) programming language having 2 years experience which i build from self study & college workshops . 
 I have also hands on below languages : 
 1. C Language
