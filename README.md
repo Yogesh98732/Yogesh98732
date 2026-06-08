@@ -39,7 +39,7 @@ I have also hands on below languages :
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh98732&show_icons=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=Yogesh98732" />
 </p>
 
 Currenlty i am working on Web Dev Scenarios . Where i learn about flow of databse in backend & how's our frontend part helps to rectify & solving complex evnets with users . 
