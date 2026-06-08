@@ -55,7 +55,7 @@ I have also hands on below languages :
 </p>
 <h2 align="center">Github Contribution Chart</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yogesh98732/Yogesh98732/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Yogesh98732/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
