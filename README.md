@@ -7,6 +7,19 @@
   <img src="images/logo.jpeg.png" width="500" Height="65">
 </p>
 <h3>I Am BTech CSE Student Studying in Indore Institute Of Science & Technology (Affiliated with Rajv Gandhi Proudyogiki Vishwavidhyalaya) Having (NBA Accredidation & NAAC A+ grade ) in rau-indore region . </h3>
+
+
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh98732&show_icons=true" />
+</p>
+
+
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,git,github,mongodb,express,react,nodejs" />
 </p>
