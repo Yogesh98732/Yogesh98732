@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/iist-logo.png" width="120">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/rgpv-logo.png" width="120">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/[rgpv-logo.png](https://www.rgpv.ac.in/?utm_source=chatgpt.com)" width="120">
 </p>
 
 
