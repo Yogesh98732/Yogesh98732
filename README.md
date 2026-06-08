@@ -50,6 +50,10 @@ I have also hands on below languages :
 </p>
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,linux" />
+</p>
+
 
 
 
