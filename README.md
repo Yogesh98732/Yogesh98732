@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="images/iist-scaled.jpeg" width="200" Height="60">
+  <img src="images/iist-scaled.jpeg" width="250" Height="62">
   <img src="images/logo.jpeg.png" width="500" Height="65">
 </p>
 <h3>I Am BTech CSE Student Studying in Indore Institute Of Science & Technology (Affiliated with Rajv Gandhi Proudyogiki Vishwavidhyalaya) Having (NBA Accredidation & NAAC A+ grade ) in rau-indore region . </h3>
